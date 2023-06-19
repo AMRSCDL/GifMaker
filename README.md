@@ -8,5 +8,5 @@
 ![Girdi_1](https://github.com/AMRSCDL/GifMaker/blob/main/example/sincapSa%C4%9F.png)
 ### Girdi 2
 ![Girdi_2](https://github.com/AMRSCDL/GifMaker/blob/main/example/sincapSol.png)
-### Sonuç
+### Sonuç (Hareket Etmiyorsa Üzerine Tıklayınız)
 ![Çıktı](https://github.com/AMRSCDL/GifMaker/blob/main/example/sincap.gif)
